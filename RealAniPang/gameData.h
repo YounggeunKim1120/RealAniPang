@@ -1,0 +1,8 @@
+#ifndef __GAME_DATA_H_
+#define __GAME_DATA_H_
+
+#define SIZE_LEN 12
+
+enum { WSPADE = 1, BSPADE, WDIA, BDIA, WHEART, BHEART, WCLOVER, BCLOVER, CURS, BLANK};
+
+#endif
